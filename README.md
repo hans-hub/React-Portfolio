@@ -1,2 +1,2 @@
 # React-Portfolio App
-This is Portfolio App in react.
+This is a Portfolio App in react.
